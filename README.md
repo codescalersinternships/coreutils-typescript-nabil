@@ -44,7 +44,7 @@ npx ts-node ./cmd/echo/main.ts -n hello
 
 The `tree` command in Go recursively lists contents of directories in a tree-like format.
 ```bash
-npx ts-node ./cmd/tree/main.ts -l ./cmd
+npx ts-node ./cmd/tree/main.ts -l3 ./cmd
 ```
 
 ### 7. env
